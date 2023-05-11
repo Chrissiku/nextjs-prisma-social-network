@@ -49,7 +49,7 @@ const Modal: React.FC<ModalProps> = ({
         className="justify-center items-center flex overflow-x-hidden overflow-y-auto fixed 
    inset-0 z-50 outline-none focus:outline-none bg-neutral-800 bg-opacity-70"
       >
-        <div className="relative w-full lg:w-3/6 my-6 mx-auto lg:max-w-3xl h-full lg:h-auto">
+        <div className="relative w-full lg:w-3/6 my-6 mx-auto lg:max-w-3xl h-auto lg:h-auto">
           {/*content*/}
           <div
             className="h-full lg:h-auto border-0 rounded-lg shadow-lg relative flex flex-col 
